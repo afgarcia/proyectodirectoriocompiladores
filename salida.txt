@@ -1,0 +1,13 @@
+ExpresionNoValida
+ExpresionNoValida
+ExpresionNoValida
+ExpresionNoValida
+ExpresionNoValida
+ExpresionNoValida
+ExpresionNoValida
+ExpresionNoValida
+ApellidoValido
+TelefonoValido
+celularValido
+fechaNacValida
+mailValido

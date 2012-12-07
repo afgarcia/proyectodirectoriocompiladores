@@ -1,0 +1,19 @@
+package paquete;
+
+import java_cup.runtime.*;
+import java.lang.System.*;
+import java.io.*;
+
+parser code {:
+
+:}
+
+/*Terminales y No Terminales*/
+
+terminal VIA, REF, NUMERAL, GUION, BARRIO;
+non terminal S, T;
+
+/* Las producciones */
+
+S ::= VIA REF NUMERAL REF GUION REF T;
+T ::= BARRIO| ;
